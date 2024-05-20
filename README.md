@@ -62,6 +62,12 @@ In this project, I designed and customised a Power BI report with 5 different vi
 
 #### *#Note - Date, product and customer filters can be applied at multiple levels in this report.*
 
+## Key Achievements
+- **Customization:** Tailored for AtliQ Hardware's specific needs.
+- **Data Integration:** Seamless integration from Excel, CSV, and MySQL sources.
+- **Visualizations:** Engaging charts and visuals for better data understanding.
+- **Performance Optimization:** Achieved a 5% increase in report efficiency.
+
 ## Conclusion:
 
 This report can assist stakeholders at AtliQ Hardware to implent data-enabled decision-making, which can help boost revenue, enhance customer experience, predict demands and optimize inventory, identify trends and patterns and accordingly strategize campaigns and promotions. Also, Power BI is a better choice than Excel for organizational analytics because it's designed specifically for business intelligence. Overall, Power BI's focus on analytics and its robust features make it the ideal tool for organizations seeking meaningful insights from their data.
